@@ -54,4 +54,4 @@ Master of Science: Data Science, University at Buffalo, The State University of 
 
 
 ### Link to Websites:
-[Steamlitt Application](<https://503project-nujmofc6zrvmkl98evxgr2.streamlit.app/)>)
+[Steamlitt Application](<https://eas503-2-ve6bkvxoxykbqffiuwaejc.streamlit.app/)>)
