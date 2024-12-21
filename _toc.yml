@@ -1,4 +1,10 @@
 format: jb-book
-root: resume
+root: into
 chapters:
-- file: your_notebook_name
+- file: resume
+- file: projects
+- file: skills
+- file: experience
+- file: demo
+- file: resources
+- file: normalisation_script_final9
