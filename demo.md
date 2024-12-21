@@ -3,4 +3,8 @@
 ## Video Demonstration
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Recession Prediction Model Code
+# Links to Project: 
+- [MLFlow/DagsHub Experiments](https://dagshub.com/singhvarunnn789/EAS503.mlflow/#/experiments/3/runs/39cec5d898fe4322a96519de965399a9)
+- [Docker Hub Container](https://hub.docker.com/repository/docker/singhvarunnn789/heart-disease-predictor/general)
+- [Deployed Model](http://146.190.78.32:8080)
+- [Streamlit App](https://503project-nujmofc6zrvmkl98evxgr2.streamlit.app/)
