@@ -1,0 +1,4 @@
+format: jb-book
+root: resume
+chapters:
+- file: your_notebook_name
