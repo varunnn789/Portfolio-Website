@@ -1,12 +1,21 @@
 # Varun Singh
 
+[![alt text](1702719279002.jpeg)]
+
+A data-driven professional with a strong foundation in Data Science and Civil Engineering, currently pursuing a Master's degree in Data Science at the University at Buffalo. Skilled in programming languages such as Java, Python, R, and JavaScript, with expertise in data management, analytics, and visualization tools including MSSQL, SQLite, PowerBI, and MATLAB.
+Experienced in developing predictive models, web applications, and machine learning solutions across diverse projects, demonstrating proficiency in areas such as recession forecasting, natural language processing, and reinforcement learning. Possesses a proven track record in the pharmaceutical industry, having worked on forecasting models, automation of reporting processes, and data-driven decision-making.
+Currently focused on expanding knowledge in advanced data science techniques and their practical applications, while leveraging past experience in data analysis, forecasting, and project management. Committed to driving innovation and efficiency through the strategic application of data science and machine learning methodologies.
+
+
 ## Education
-Master of Science: Data Science, University at Buffalo, The State University of New York
+Master of Science: Data Science, University at Buffalo, The State University of New York:  Fall 2024 - Fall 2025
+
 
 ## Skills & Tools
 - Languages: Java, Python, R, Javascript
 - Data Management & Analytics: MSSQL, SQLite
 - Tools: Jupyter, Visual Studio, PowerBI, MATLAB, MS Azure
+
 
 ## Projects and Technical Papers
 
@@ -24,6 +33,7 @@ Master of Science: Data Science, University at Buffalo, The State University of 
 - Developed a web application for users to submit their reviews and search books and other user's reviews
 - Used HTML, CSS, Bootstrap 4 for frontend and Goodreads API to collect broader audience review
 - Curated book details in a PostgreSQL database and integrated using JSON API
+
 
 ## Work Experience
 
@@ -44,8 +54,4 @@ Master of Science: Data Science, University at Buffalo, The State University of 
 
 
 ### Link to Websites:
-## Project Links
-- [MLFlow/DagsHub Experiments](https://dagshub.com/singhvarunnn789/EAS503.mlflow/#/experiments/3/runs/39cec5d898fe4322a96519de965399a9)
-- [Docker Hub Container](https://hub.docker.com/repository/docker/singhvarunnn789/heart-disease-predictor/general)
-- [Deployed Model](http://146.190.78.32:8080)
-- [Streamlit App](https://503project-nujmofc6zrvmkl98evxgr2.streamlit.app/)
+[Steamlitt Application](<https://503project-nujmofc6zrvmkl98evxgr2.streamlit.app/)>)
