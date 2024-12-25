@@ -37,15 +37,8 @@ nbclient.exceptions.CellTimeoutError: A cell timed out while it was being execut
 The message was: Cell execution timed out.
 Here is a preview of the cell contents:
 -------------------
-'''
-Copying the dataframe, and creating the response variable as a sum of three Heart Disease related variables, as well as removing some non-related variables
-'''
-df = joined_df.copy()
-df["HadHeartIssues"] = df[["HadHeartAttack", "HadAngina", "HadStroke"]].apply(
-    lambda row: "Yes" if "Yes" in row.values else "No", axis=1)
-df.drop(columns=["HadHeartAttack", "HadAngina", "HadStroke", "RemovedTeeth", "TetanusLast10Tdap", "State", "PatientID"], inplace=True)
-profile = ProfileReport(df, title="Pandas Profiling Report")
-profile
-
+['import sqlite3', 'import os', 'import pandas as pd', 'import matplotlib.pyplot as plt', 'import seaborn as sns']
+...
+['from sklearn.compose import ColumnTransformer', 'from sklearn.preprocessing import StandardScaler, MinMaxScaler, OneHotEncoder, FunctionTransformer', 'from sklearn.linear_model import LogisticRegression', 'from sklearn.metrics import f1_score, confusion_matrix, make_scorer', 'import mlflow.sklearn']
 -------------------
 
