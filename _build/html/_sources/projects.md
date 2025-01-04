@@ -33,6 +33,22 @@
   - [Restaurant Website](https://restaurant-frontend-gn13.onrender.com/#reservations)
   - [Description](https://varunnn789.github.io/restaurant-website/)
 
+## Crime Detection using Sentiment Analysis
+- Objective: Develop an innovative crime prediction model integrating sentiment analysis from social media with historical crime data
+- Technologies:
+  - Data Collection: Playwright, PRAW
+  - Data Processing: Pandas, NLTK, TextBlob
+  - Machine Learning: Scikit-learn (PCA, Random Forest)
+  - Data Visualization: Matplotlib
+- Key Features:
+  - Automated extraction of crime-related social media data from Twitter and Reddit
+  - Custom sentiment scoring mechanism with crime severity weighting
+  - Integration of real-time sentiment analysis with historical crime data
+  - Principal Component Analysis (PCA) for feature selection and dimensionality reduction
+  - Random Forest classification for crime trend prediction
+  - Geolocation-based crime severity mapping at the state level
+  - Comparative analysis of predicted crime severity rankings against established crime indexes
+
 ## Book Review Platform
 - Objective: Develop a web application for book reviews
 - Technologies: HTML, CSS, Bootstrap 4, Goodreads API, PostgreSQL

@@ -55,7 +55,3 @@ Master of Science: Data Science, University at Buffalo, The State University of 
 - Created a PBI dashboard and Python backend, automating analysis of promotional data from 10+ sources
 - Co-authored a respiratory market case study, covering SDR, forecasting, HCP segmentation, and ROI analysis for launch decisions
 - Mentored team members on reporting, ad-hoc analysis, and IQVIA data platforms
-
-
-### Link to Websites:
-[Steamlitt Application](<https://eas503-2-ve6bkvxoxykbqffiuwaejc.streamlit.app/)>)

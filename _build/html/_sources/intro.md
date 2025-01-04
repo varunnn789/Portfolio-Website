@@ -14,5 +14,3 @@ Currently focused on expanding knowledge in advanced data science techniques and
 - [Projects](projects.md)
 - [Skills](skills.md)
 - [Experience](experience.md)
-- [Demo](demo.md)
-- [Resources](resources.md)

@@ -7,5 +7,3 @@ Welcome to my professional portfolio. Here you'll find information about my skil
 - [Projects](projects.md)
 - [Skills](skills.md)
 - [Experience](experience.md)
-- [Demo](demo.md)
-- [Resources](resources.md)
