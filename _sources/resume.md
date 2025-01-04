@@ -13,21 +13,25 @@ Master of Science: Data Science, University at Buffalo, The State University of 
 
 ## Skills & Tools
 - Languages: Java, Python, R, Javascript
-- Data Management & Analytics: MSSQL, SQLite
+- Data Management & Analytics: MySQL, PostgreSQL
 - Tools: Jupyter, Visual Studio, PowerBI, MATLAB, MS Azure
 
 
 ## Projects and Technical Papers
 
-### Recession Prediction Model:
-- Built a predictive model to forecast recessions up to 12 months in advance, minimizing investment risks with \(90\%\) accuracy
-- Scraped, cleaned, and curated economic data using Beautiful Soup, and visualized key trends with Matplotlib
-- Trained and optimized regression models (Linear Regression, XGBoost) and neural networks using Scikit-learn and Pandas
-- Implemented multi-layer (3, 5, and 6) Neural Networks and LSTM networks for classification tasks with Keras and TensorFlow
+### Heart Disease Prediction Model:
+- Developed an end-to-end ML pipeline for classification, from data preprocessing to model deployment
+- Implemented feature engineering, selection, and PCA for performance optimization
+- Experimented with multiple classifiers, logging results via MLflow on DagsHub
+- Deployed the model as a containerized FastAPI application with a Streamlit interface
+- Documented the process comprehensively in a Jupyter Book with video presentation
 
 ### Restaurant Database:
-- Collaborated with a team of 3, to build a restaurant website using HTML, CSS and Javascript
-- Designed the backend database using MySQL and integrated it using JSON API
+- Built a full-stack restaurant website using Node.js, Express.js, and PostgreSQL with JWT authentication.
+- Implemented responsive frontend design with dynamic menu display and reservation system.
+- Developed RESTful API endpoints for user authentication, menu management, and reservation handling.
+- Designed PostgreSQL database schema with relational tables for users, menu items, and reservations.
+- Deployed and managed application across Render (frontend/backend) and Koyeb (database) platforms.
 
 ### Book Review Platform:
 - Developed a web application for users to submit their reviews and search books and other user's reviews
