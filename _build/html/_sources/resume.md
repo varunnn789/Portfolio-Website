@@ -33,6 +33,14 @@ Master of Science: Data Science, University at Buffalo, The State University of 
 - Designed PostgreSQL database schema with relational tables for users, menu items, and reservations.
 - Deployed and managed application across Render (frontend/backend) and Koyeb (database) platforms.
 
+### Crime Detection using Sentiment Analysis
+- Developed a hybrid crime prediction model integrating sentiment analysis from social media with historical crime data.
+- Implemented data collection pipeline using Playwright and PRAW, processing over 10,000 tweets and 20GB of Reddit data
+- Utilized NLTK and TextBlob for sentiment analysis, achieving 87% accuracy in classifying social media posts
+- Created custom scoring mechanism assigning severity scores (1-10) to different crime types based on their impact
+- Integrated sentiment analysis results with historical data modeling to generate cumulative safety scores for states
+- Validated model results against established crime indexes from Wikipedia, USA News, and Numbeo
+
 ### Book Review Platform:
 - Developed a web application for users to submit their reviews and search books and other user's reviews
 - Used HTML, CSS, Bootstrap 4 for frontend and Goodreads API to collect broader audience review

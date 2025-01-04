@@ -14,7 +14,7 @@
   - Comprehensive documentation and project presentation via Jupyter Book
 - Link: 
   - [Streamlit Frontend](https://apprender-ghfqkbcthxbxrfdgcomw23.streamlit.app/)
-  - [Description](https://varunnn789.github.io/Heart-Disease-Prediction/)
+  - [Description](https://varunnn789.github.io/Heart-Disease-Prediction/index.html)
 
 ## Restaurant Database
 - Objective: Full-stack restaurant website with user authentication and reservation system with dynamic menu
@@ -48,6 +48,8 @@
   - Random Forest classification for crime trend prediction
   - Geolocation-based crime severity mapping at the state level
   - Comparative analysis of predicted crime severity rankings against established crime indexes
+- Link:
+  - [Description](https://varunnn789.github.io/Crime-Detection-Using-Sentiment/)
 
 ## Book Review Platform
 - Objective: Develop a web application for book reviews
