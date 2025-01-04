@@ -48,6 +48,8 @@
   - Random Forest classification for crime trend prediction
   - Geolocation-based crime severity mapping at the state level
   - Comparative analysis of predicted crime severity rankings against established crime indexes
+- Link:
+  - [Description](https://varunnn789.github.io/Crime-Detection-Using-Sentiment/)
 
 ## Book Review Platform
 - Objective: Develop a web application for book reviews
