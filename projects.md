@@ -1,21 +1,37 @@
 # Projects
 
-## Recession Prediction Model
-- Objective: Forecast recessions up to 12 months in advance
-- Technologies: Beautiful Soup, Matplotlib, Scikit-learn, Pandas, Keras, TensorFlow
-- Accuracy: 90%
+## Heart Disease Prediction Model
+- Objective: Develop and deploy a machine learning model to predict heart disease based on indicators
+- Technologies:
+  - Frontend: Streamlit
+  - Backend: FastAPI and Docker
+  - Experiment Logs: MLFlow on DagsHub 
+  - Cloud Services: Digital Ocean
 - Key Features:
-  - Data scraping and cleaning
-  - Trend visualization
-  - Regression models and neural networks
+  - Normalized database creation and data exploration
+  - Preprocessing pipelines and multiple classification algorithms with feature engineering, selection, and dimensionality reduction (PCA)
+  - Model deployment with FastAPI, Docker, and Streamlit
+  - Comprehensive documentation and project presentation via Jupyter Book
+- Link: 
+  - [Streamlit Frontend](https://apprender-ghfqkbcthxbxrfdgcomw23.streamlit.app/)
+  - [Description](https://varunnn789.github.io/Heart-Disease-Prediction/)
 
 ## Restaurant Database
-- Objective: Create a restaurant website with backend integration
-- Technologies: HTML, CSS, Javascript, MySQL, JSON API
+- Objective: Full-stack restaurant website with user authentication and reservation system with dynamic menu
+- Technologies:
+  - Frontend: HTML5, CSS3, JavaScript
+  - Backend: Node.js, Express.js
+  - Database: PostgreSQL
+  - Authentication: JWT, bcrypt
+  - Cloud Services: Render, Koyeb
 - Key Features:
-  - Collaborative development
-  - Backend database design
-  - API integration
+  - User authentication system with secure login/signup
+  - Dynamic menu management with database integration
+  - Real-time reservation system with user tracking
+  - RESTful API endpoints for data management
+- Link: 
+  - [Restaurant Website](https://restaurant-frontend-gn13.onrender.com/#reservations)
+  - [Description](https://varunnn789.github.io/restaurant-website/)
 
 ## Book Review Platform
 - Objective: Develop a web application for book reviews
