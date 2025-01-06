@@ -2,11 +2,11 @@
 
 [![alt text](1702719279002.jpeg)]
 
-A data-driven professional with a strong foundation in Data Science and Civil Engineering, currently pursuing a Master's degree in Data Science at the University at Buffalo. Skilled in programming languages such as Java, Python, R, and JavaScript, with expertise in data management, analytics, and visualization tools including MSSQL, SQLite, PowerBI, and MATLAB.
+A data-driven professional with a strong foundation in Data Science and Civil Engineering, currently pursuing a Master's degree in Data Science at the University at Buffalo. Skilled in programming languages such as Python, SQL, Java, and JavaScript, with expertise in data management, analytics, and visualization tools including PowerBI, Tableau, and advanced statistical techniques.
 
-Experienced in developing predictive models, web applications, and machine learning solutions across diverse projects, demonstrating proficiency in areas such as recession forecasting, natural language processing, and reinforcement learning. Possesses a proven track record in the pharmaceutical industry, having worked on forecasting models, automation of reporting processes, and data-driven decision-making.
+Experienced in developing predictive models and machine learning solutions across diverse projects, with a focus on the pharmaceutical industry. Demonstrated proficiency in forecasting, automation, and data-driven decision-making through roles at Viscadia and IQVIA. Adept at leveraging statistical techniques and machine learning algorithms to extract meaningful insights from complex datasets, to enhance business processes and strategic decision-making.
 
-Currently focused on expanding knowledge in advanced data science techniques and their practical applications, while leveraging past experience in data analysis, forecasting, and project management. Committed to driving innovation and efficiency through the strategic application of data science and machine learning methodologies.
+Currently expanding knowledge in the field of data science while applying analytical and problem-solving skills to real-world challenges. Committed to driving innovation through the strategic application of data science methodologies, particularly in the pharmaceutical and healthcare sectors. Passionate about exploring the intersection of data science and healthcare to enhance patient outcomes and optimize healthcare delivery systems.
 
 ## Quick Links
 
