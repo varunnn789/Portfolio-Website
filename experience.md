@@ -5,13 +5,13 @@
 
 - Built forecasting models using time series and scenario-based techniques for pharmaceuticals in the EU and Canada
 - Standardized 30+ models to enhance accuracy and address regional market variations
-- Automated VBA modules for sensitivity analysis and Monte Carlo simulations, reducing project timelines by 25%
+- Automated VBA modules for sensitivity analysis and Monte Carlo simulations, reducing project timelines by 50%
 - Leveraged APLD, claims data, and industry sources (Biomedtracker, EvaluatePharma) to deliver actionable industry insights
 
 ## Data Analyst
 **IQVIA, India (Aug 2022 - Nov 2023)**
 
-- Automated reporting with Python (Matplotlib, Pandas, NumPy, Scikit-learn), saving 10+ hours weekly and improving accuracy
+- Automated reporting with Python (Matplotlib, Pandas, NumPy, Scikit-learn), saving 10+ hours weekly and improving report accuracy
 - Developed a web tool for RFP project, automating data processing and integrating authentication
 - Led a PowerBI initiative tracking brand performance, optimizing data from 10 sources, adding 40+ billable hours
 - Managed Above-Country engagement for 20+ European countries, ensuring timely, accurate report delivery

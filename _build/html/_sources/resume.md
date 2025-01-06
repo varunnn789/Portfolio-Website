@@ -12,9 +12,10 @@ Master of Science: Data Science, University at Buffalo, The State University of 
 
 
 ## Skills & Tools
-- Languages: Java, Python, R, Javascript
-- Data Management & Analytics: MySQL, PostgreSQL
-- Tools: Jupyter, Visual Studio, PowerBI, MATLAB, MS Azure
+- Languages: Python (Numpy, Pandas, Scikit-learn, Keras), SQL (MySQL, PostgreSQL, MongoDB), Java, Javascript, R
+- Data Management & Analytics: Apache Spark, Apache Kafka, Amazon Sagemaker, PowerBI, Tableau
+- Web Development: React.js, Node.js, Flask, FastAPI, RESTful API, HTML, CSS
+- Tools: Jupyter, Visual Studio, MATLAB, MS Azure, Render, Docker, Git
 
 
 ## Projects and Technical Papers
@@ -41,10 +42,12 @@ Master of Science: Data Science, University at Buffalo, The State University of 
 - Integrated sentiment analysis results with historical data modeling to generate cumulative safety scores for states
 - Validated model results against established crime indexes from Wikipedia, USA News, and Numbeo
 
-### Book Review Platform:
-- Developed a web application for users to submit their reviews and search books and other user's reviews
-- Used HTML, CSS, Bootstrap 4 for frontend and Goodreads API to collect broader audience review
-- Curated book details in a PostgreSQL database and integrated using JSON API
+### Generative AI for Mental Health Support:
+- Designed a generative AI-powered web application for therapeutic suggestions and mindfulness exercises using GPT-4 and Hugging Face Transformers.
+- Developed a responsive frontend using React.js with features for emotion-based therapeutic responses and user-customizable tone preferences.
+- Built a Flask/FastAPI backend to process user inputs and integrate AI-generated outputs dynamically.
+- Implemented privacy-focused safeguards with no data storage and automatic redirection to professional resources when needed.
+- Leveraged MongoDB for storing non-sensitive configuration data and deployed the application on AWS and Render platforms.
 
 
 ## Work Experience

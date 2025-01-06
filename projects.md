@@ -1,3 +1,6 @@
+# Projects And Technical Papers
+
+
 # Projects
 
 ## Heart Disease Prediction Model
@@ -51,13 +54,21 @@
 - Link:
   - [Description](https://varunnn789.github.io/Crime-Detection-Using-Sentiment/)
 
-## Book Review Platform
-- Objective: Develop a web application for book reviews
-- Technologies: HTML, CSS, Bootstrap 4, Goodreads API, PostgreSQL
+## Generative AI for Mental Health Support
+- Objective: A generative AI-powered web application to provide therapeutic suggestions, mindfulness exercises, and empathetic responses for mental health support.
+- Technologies:
+  - Frontend: React.js, HTML5, CSS3
+  - Backend: Flask, FastAPI
+  - AI Models: OpenAI GPT-4, Hugging Face Transformers
+  - Database: MongoDB
+  - Cloud Services: AWS, Render
+  - APIs: Twilio (optional for voice/text), OpenAI API
 - Key Features:
-  - User review submission
-  - Book search functionality
-  - Integration with Goodreads API
+  - Emotion-based suggestions for therapeutic exercises and motivational messages
+  - User-customizable tone and response preferences
+  - Privacy-focused design with no data storage
+  - Safeguards to redirect users to professional resources when necessary
+  - Multimodal support, including text and optional audio-guided exercises
 
 ## NarrativeQA Reading Comprehension
 - Objective: Produce natural language results from summaries and questions
@@ -72,3 +83,11 @@
 - Key Features:
   - Simulated agent navigation
   - Reward and penalty calibration
+
+# Technical Papers
+
+## Navigating Uncertainty: Evaluating Risks to Enhance Drug Sales Forecast
+- The paper highlights the use of Monte Carlo Simulation to tackle uncertainties in new drug sales forecasting within dynamic market conditions.
+- It explores integrating Monte Carlo with AI/ML for enhanced probabilistic forecasting and future advancements.
+- Link: 
+  - [Journal of PMSA Spring 2024](https://www.pmsa.org/_resources/documents/journal/Journal-of-PMSA-Spring-2024.pdf)
