@@ -13,7 +13,7 @@
 
 - Automated reporting with Python (Matplotlib, Pandas, NumPy, Scikit-learn), saving 10+ hours weekly and improving report accuracy
 - Developed a web tool for RFP project, automating data processing and integrating authentication
-- Led a PowerBI initiative tracking brand performance, optimizing data from 10 sources, adding 40+ billable hours
+- Led a PowerBI initiative tracking brand performance, optimizing data from 10+ sources, adding 40+ billable hours
 - Managed Above-Country engagement for 20+ European countries, ensuring timely, accurate report delivery
 - Created a PBI dashboard and Python backend, automating analysis of promotional data from 10+ sources
 - Co-authored a respiratory market case study, covering SDR, forecasting, HCP segmentation, and ROI analysis
