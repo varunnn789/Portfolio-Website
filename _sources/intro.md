@@ -11,6 +11,6 @@ Currently focused on expanding knowledge in advanced data science techniques and
 ## Quick Links
 
 - [Resume](resume.md)
-- [Projects](projects.md)
+- [Project And Techncal Papers](projects.md)
 - [Skills](skills.md)
 - [Experience](experience.md)
