@@ -29,7 +29,7 @@ Master of Science: Data Science, University at Buffalo, The State University of 
 - Deployed the model as a containerized FastAPI application with a Streamlit interface
 - Documented the process comprehensively in a Jupyter Book with video presentation
 
-### Restaurant Database:
+### Restaurant Website:
 - Built a full-stack restaurant website using Node.js, Express.js, and PostgreSQL with JWT authentication.
 - Implemented responsive frontend design with dynamic menu display and reservation system.
 - Developed RESTful API endpoints for user authentication, menu management, and reservation handling.

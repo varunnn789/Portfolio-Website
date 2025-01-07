@@ -8,9 +8,12 @@ Experienced in developing predictive models and machine learning solutions acros
 
 Currently expanding knowledge in the field of data science while applying analytical and problem-solving skills to real-world challenges. Committed to driving innovation through the strategic application of data science methodologies, particularly in the pharmaceutical and healthcare sectors. Passionate about exploring the intersection of data science and healthcare to enhance patient outcomes and optimize healthcare delivery systems.
 
+
 ## Quick Links
 
 - [Resume](resume.md)
 - [Project And Techncal Papers](projects.md)
 - [Skills](skills.md)
 - [Experience](experience.md)
+- [Github](https://github.com/varunnn789)
+- [LinkedIn](https://www.singh-varun.com/)
