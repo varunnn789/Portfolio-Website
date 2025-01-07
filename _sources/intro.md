@@ -16,4 +16,4 @@ Currently expanding knowledge in the field of data science while applying analyt
 - [Skills](skills.md)
 - [Experience](experience.md)
 - [Github](https://github.com/varunnn789)
-- [LinkedIn](https://www.singh-varun.com/)
+- [LinkedIn](https://www.linkedin.com/in/varun789/)
